@@ -1,4 +1,4 @@
-### 🥦 I’m currently learning Kinesis
+### 🥦 I’m currently learning AWS Kinesis
 
 ### Languages and Tools:
 
