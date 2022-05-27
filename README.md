@@ -2,10 +2,12 @@
 
 ### Languages and Tools:
 
-![bash logo](https://user-images.githubusercontent.com/106376020/170679151-8d184c7a-e38f-4545-83d8-97e673dccfd0.png)
 ![python logo](https://user-images.githubusercontent.com/106376020/170679457-3af0a9e8-7185-4946-acac-0bdcfd70ad29.png)
+![bash logo](https://user-images.githubusercontent.com/106376020/170679151-8d184c7a-e38f-4545-83d8-97e673dccfd0.png)
 ![hadoop logo](https://user-images.githubusercontent.com/106376020/170680496-03ecbba5-b6d2-40c0-96fa-e9060e70298c.png)
+![spark logo](https://user-images.githubusercontent.com/106376020/170682307-c1212436-2eb7-40f9-ae09-81c2fb834e38.png)
 ![aws logo](https://user-images.githubusercontent.com/106376020/170681878-faa3a35c-6982-44bc-a81b-7cfcbcc2c135.png)
+![databricks logo](https://user-images.githubusercontent.com/106376020/170682705-462b2f8b-a488-468b-906e-f968e9db5781.png)
 
 
 <!--
