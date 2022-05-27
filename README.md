@@ -1,6 +1,7 @@
 ### 🥦 I’m currently learning Kinesis
+![download](https://user-images.githubusercontent.com/106376020/170674278-0f18d13f-c5fe-429b-9750-11721604d752.png)
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpassyourcert.net%2Faws-certified-data-analytics-specialty%2F&psig=AOvVaw1qbDcCEW9ywUbDbAUh1sUo&ust=1653730662174000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDyxfiw__cCFQAAAAAdAAAAABAK](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F485270ba-7097-4243-a54d-347a851fce07&psig=AOvVaw1qbDcCEW9ywUbDbAUh1sUo&ust=1653730662174000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDyxfiw__cCFQAAAAAdAAAAABAQ)">
+
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
