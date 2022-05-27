@@ -1,7 +1,8 @@
 ### 🥦 I’m currently learning Kinesis
 
 ### Languages and Tools:
-![1200px-Bash_Logo_Colored svg_](https://user-images.githubusercontent.com/106376020/170678388-bc73cb0b-1591-4b7f-8859-6445a6d1aeb4.png)
+
+![bash logo](https://user-images.githubusercontent.com/106376020/170679151-8d184c7a-e38f-4545-83d8-97e673dccfd0.png)
 
 
 <!--
