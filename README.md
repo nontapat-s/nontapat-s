@@ -1,7 +1,9 @@
 ### 🥦 I’m currently learning Kinesis
 
-
-
+### Languages and Tools:
+![1200px-Python-logo-notext svg](https://user-images.githubusercontent.com/106376020/170677005-b64d0fd8-7316-4820-9428-4d2a367b031e.png)
+![download](https://user-images.githubusercontent.com/106376020/170677106-6bb95185-c450-4c50-847a-3ba38026b63b.png)
+![download](https://user-images.githubusercontent.com/106376020/170677152-c092d03f-aeff-4f81-a385-56aaa1699ae1.png)
 
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
