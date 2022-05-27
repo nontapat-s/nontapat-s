@@ -1,4 +1,6 @@
-### 🥦 I’m currently learning AWS Kinesis
+### 🥦 I’m a data engineer
+### 🥑 I'm learning AWS
+### 🍉 I'm looking for a remote job
 
 ### Languages and Tools:
 
