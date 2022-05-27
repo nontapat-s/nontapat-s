@@ -4,6 +4,9 @@
 
 ![bash logo](https://user-images.githubusercontent.com/106376020/170679151-8d184c7a-e38f-4545-83d8-97e673dccfd0.png)
 ![python logo](https://user-images.githubusercontent.com/106376020/170679457-3af0a9e8-7185-4946-acac-0bdcfd70ad29.png)
+![hadoop logo](https://user-images.githubusercontent.com/106376020/170680496-03ecbba5-b6d2-40c0-96fa-e9060e70298c.png)
+![aws logo](https://user-images.githubusercontent.com/106376020/170681878-faa3a35c-6982-44bc-a81b-7cfcbcc2c135.png)
+
 
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
