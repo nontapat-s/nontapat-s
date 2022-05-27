@@ -1,4 +1,6 @@
 ### 🥦 I’m currently learning Kinesis
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpassyourcert.net%2Faws-certified-data-analytics-specialty%2F&psig=AOvVaw1qbDcCEW9ywUbDbAUh1sUo&ust=1653730662174000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDyxfiw__cCFQAAAAAdAAAAABAK">
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
