@@ -1,8 +1,8 @@
 ### 🥦 I’m currently learning Kinesis
 
 ### Languages and Tools:
-[<img align="left" alt="Bash" width="26px" src="![1200px-Bash_Logo_Colored svg_](https://user-images.githubusercontent.com/106376020/170678288-6ce5af1c-890f-4ece-9bdf-e561448ba12e.png)
-"/>]
+![1200px-Bash_Logo_Colored svg_](https://user-images.githubusercontent.com/106376020/170678388-bc73cb0b-1591-4b7f-8859-6445a6d1aeb4.png)
+
 
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
