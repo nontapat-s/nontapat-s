@@ -2,6 +2,8 @@
 ### 🥑 I'm learning AWS
 ### 🍉 I'm looking for a remote job
 
+
+
 ### Languages and Tools:
 
 ![python logo](https://user-images.githubusercontent.com/106376020/170679457-3af0a9e8-7185-4946-acac-0bdcfd70ad29.png)
