@@ -1,7 +1,7 @@
 ### 🥦 I’m currently learning Kinesis
 
 ### Languages and Tools:
-![photo-145++](https://user-images.githubusercontent.com/106376020/170677290-81aa8df7-fa0d-477b-87ec-b2a174d91197.jpg)
+[<img align="left" alt="Bash" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fskorpil.cz%2Fen%2Fplatform%2F39%2Fbash&psig=AOvVaw3WAqbmRqnusTbItL57ik9O&ust=1653731796172000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDvxIK2__cCFQAAAAAdAAAAABAu" />]
 
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
