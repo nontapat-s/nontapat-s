@@ -1,5 +1,6 @@
 ### 🥦 I’m currently learning Kinesis
-![download](https://user-images.githubusercontent.com/106376020/170674394-d1e69090-59cd-4ce8-8eab-8792f21dd956.png)
+![download](https://user-images.githubusercontent.com/106376020/170674635-472a279c-6150-4610-af95-38d4c4869d2e.jpg)
+
 
 
 
