@@ -3,7 +3,7 @@
 ### Languages and Tools:
 
 ![bash logo](https://user-images.githubusercontent.com/106376020/170679151-8d184c7a-e38f-4545-83d8-97e673dccfd0.png)
-
+![python logo](https://user-images.githubusercontent.com/106376020/170679457-3af0a9e8-7185-4946-acac-0bdcfd70ad29.png)
 
 <!--
 **nontapat-s/nontapat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
