@@ -1,5 +1,5 @@
 ### 🥦 I’m a data engineer
-### 🥑 I'm learning AWS
+### 🥑 I'm learning Azure
 ### 🍉 I'm looking for a remote job
 ### Languages and Tools:
 
