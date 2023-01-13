@@ -13,7 +13,7 @@
 ![tableau logo](https://user-images.githubusercontent.com/106376020/170683483-fd75dac1-9948-49c1-9b25-62cf00df38fe.png)
 ![docker logo](https://user-images.githubusercontent.com/106376020/170683795-f0815962-8bde-45af-bd0e-c39b3b856bb2.png)
 
-### Certifications:
+### 🏅 Certifications:
 ![image](https://user-images.githubusercontent.com/106376020/212324993-81f1afd1-3899-4a4d-a229-685eb4780ab6.png)
 ![image](https://user-images.githubusercontent.com/106376020/212325673-a2a5efc9-7cad-4976-ab3a-4c730788a518.png)
 
