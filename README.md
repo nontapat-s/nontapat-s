@@ -19,8 +19,6 @@
 ![image](https://user-images.githubusercontent.com/106376020/212324993-81f1afd1-3899-4a4d-a229-685eb4780ab6.png)
 ![image](https://user-images.githubusercontent.com/106376020/212325673-a2a5efc9-7cad-4976-ab3a-4c730788a518.png)
 
-### <br />
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=-3_zYKt2JzU)
 
 
 <!--
