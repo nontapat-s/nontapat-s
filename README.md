@@ -1,6 +1,5 @@
-### 🥦 I’m a data engineer
-### 🥑 I'm learning Azure
-### 🍉 I'm looking for a remote job 
+### 🥦 AWS/Azure/Databricks Certified Data Engineer Associate
+### 🍉 looking for a part-time remote job 
 ### <br />
 
 ### 📖 Languages and Tools:
