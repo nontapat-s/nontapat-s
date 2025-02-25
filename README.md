@@ -15,8 +15,16 @@
 ![docker logo](https://user-images.githubusercontent.com/106376020/170683795-f0815962-8bde-45af-bd0e-c39b3b856bb2.png)
 ### <br />
 ### 🏅 Certifications:
+![aws badge 35](https://github.com/user-attachments/assets/84592e30-1802-41cc-8c75-be9428b254cb)
+![azure de small](https://github.com/user-attachments/assets/1e3eae2b-a50f-4945-b4f6-f95659ab1c1a)
+![associate-badge-de](https://github.com/user-attachments/assets/d76bdb8d-59d3-4b56-beeb-9f7d3fc1165e)
 ![image](https://user-images.githubusercontent.com/106376020/212324993-81f1afd1-3899-4a4d-a229-685eb4780ab6.png)
-![image](https://user-images.githubusercontent.com/106376020/212325673-a2a5efc9-7cad-4976-ab3a-4c730788a518.png)
+
+
+
+
+
+
 
 
 
